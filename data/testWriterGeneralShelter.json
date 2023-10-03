@@ -1,0 +1,19 @@
+{
+    "cats": [
+        {
+            "price": 300,
+            "name": "3",
+            "age": 3,
+            "breed": "Tabby",
+            "status": false
+        },
+        {
+            "price": 300,
+            "name": "4",
+            "age": 4,
+            "breed": "Others",
+            "status": true
+        }
+    ],
+    "shelter name": "Meowie Rescue Shelter"
+}

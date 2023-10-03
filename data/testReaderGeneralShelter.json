@@ -1,0 +1,19 @@
+{
+    "cats": [
+        {
+            "price": 500,
+            "name": "1",
+            "age": 1,
+            "breed": "AmericanShortHair",
+            "status": true
+        },
+        {
+            "price": 400,
+            "name": "2",
+            "age": 2,
+            "breed": "BritishShortHair",
+            "status": false
+        }
+    ],
+    "shelter name": "Meowie Shelter"
+}

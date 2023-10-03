@@ -1,0 +1,10 @@
+{
+    "cats": [{
+        "price": 300,
+        "name": "Apple",
+        "age": 2,
+        "breed": "Tabby",
+        "status": false
+    }],
+    "shelter name": "Meowie Rescue Shelter"
+}
